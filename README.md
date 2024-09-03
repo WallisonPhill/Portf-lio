@@ -1,5 +1,5 @@
-# Portfolio
- A criação do porftólio foi proposto para praticas os fundamentos aprendidos no módulo.
+# Portfolio 👨🏻‍💻
+ A criação do porftólio foi proposto para praticar os fundamentos aprendidos no módulo.
 
 - Organização do projeto;
 - Variáveis CSS;
