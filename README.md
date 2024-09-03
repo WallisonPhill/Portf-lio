@@ -1,4 +1,4 @@
-# Portfolio 👨🏻‍💻
+# Portfólio 👨🏻‍💻
  A criação do porftólio foi proposto para praticar os fundamentos aprendidos no módulo.
 
 - Organização do projeto;
