@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-red: #E3646E;
+  --main-purple: #BB72E9;
+  --main-blue: #3996d8;
+  --main-green: #82BC4F;
+  --main-yellow: #EABD5F;
+  
+  --base-gray-100: #0D0E11;
+  --base-gray-200: #16181D;
+  --base-gray-300: #292C34;
+  --base-gray-400: #878EA1;
+  --base-gray-500: #C0C4CE;
+  --base-gray-600: #E2E4E9;
+
+  --font-title: "Asap", sans-serif;
+  --font-subtitle: "Inconsolata", sans-serif;
+  --font-text: "Maven pro", sans-serif;
+
+  --title-lg: bold 56px/120% var(--font-title);
+  --title-md: bold 24px/120% var(--font-title);
+  --title-sm: bold 16px/120% var(--font-title);
+  --subtitle: normal 20px/120% var(--font-subtitle);
+  --text-md: normal 16px/140% var(--font-text);
+  --text-sm: normal 14px/140% var(--font-text);
+}
+
+.container {
+  max-width: 1040px;
+  margin: auto;
+}
+
+
+.icon-purple {
+  filter: invert(65%) sepia(52%) saturate(4831%) hue-rotate(232deg) brightness(110%) contrast(88%);
+}
+
+.icon-red {
+  filter: invert(48%) sepia(75%) saturate(1396%) hue-rotate(319deg) brightness(98%) contrast(81%);
+}
+
+.icon-blue {
+  filter: invert(51%) sepia(19%) saturate(1668%) hue-rotate(162deg) brightness(100%) contrast(87%);
+}
+
+.icon-yellow {
+  filter: invert(69%) sepia(67%) saturate(345%) hue-rotate(1deg) brightness(145%) contrast(84%);
+}
+
+.icon-green {
+  filter: invert(66%) sepia(41%) saturate(536%) hue-rotate(49deg) brightness(95%) contrast(90%);
+}
